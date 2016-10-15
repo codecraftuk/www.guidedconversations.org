@@ -520,3 +520,21 @@ time {
     line-height: 1.2em;
   }
 }
+
+
+
+h1>a {
+  color: white;
+  text-decoration: none;
+}
+
+
+h1>a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+h1>a:hover {
+  color: white;
+  text-decoration: underline;
+}
