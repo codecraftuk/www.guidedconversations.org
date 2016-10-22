@@ -24,3 +24,6 @@ github_username:  codecraftuk
 
 # Build settings
 markdown: kramdown
+
+
+permalink: /:categories/:title
