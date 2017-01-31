@@ -6,7 +6,7 @@ categories: questions
 
 <h2>Pair Programming</h2>
 
-<p><em>Questions by Mhairi McClair in September 2016</em></p>
+<p><em>Questions by <a href="https://twitter.com/mmcclair">Mhairi McClair</a> in September 2016</em></p>
 
 <ul>
 <li>When should you pair?</li>
