@@ -9,8 +9,8 @@ categories: questions
 <p><em>Questions by <a href="https://twitter.com/mmcclair">Mhairi McClair</a> in September 2016</em></p>
 
 <ul>
+<li>What is Pair Programming?</li>
 <li>When should you pair?</li>
-<li>Should it be compulsory?</li>
 <li>How does it compare to reviews/single programming?</li>
 <li>What are the advantages?</li>
 <li>What are the potential downsides?</li>
