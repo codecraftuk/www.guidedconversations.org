@@ -79,3 +79,11 @@ a.arrow_box:visited {
     border-width: 16px;
     margin-top: -16px;
 }
+
+
+@media (max-width: 780px) {
+  .active_arrow_box, .arrow_box {
+    display: block;
+    margin-bottom: 0.3em;
+  }
+}
