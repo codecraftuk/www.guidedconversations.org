@@ -4,7 +4,7 @@ title: "Collaboration"
 categories: questions
 ---
 
-<h2>Patterns</h2>
+<h2>Collaboration</h2>
 
 <p><em>Questions by  <a href="https://twitter.com/cazkirkhope">Caroline Kirkhope</a> in July 2017</em></p>
 
