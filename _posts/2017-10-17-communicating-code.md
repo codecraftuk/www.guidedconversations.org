@@ -6,7 +6,7 @@ categories: questions
 
 <h2>Effective Ways of Communicating Code</h2>
 
-<p><em>Questions by  <a href="https://twitter.com/https://twitter.com/themicrobiogirl">Ewa Grabowiecka</a> in September 2017</em></p>
+<p><em>Questions by  <a href="https://twitter.com/themicrobiogirl">Ewa Grabowiecka</a> in September 2017</em></p>
 
 <ul>
 <li>How would you compare your learning techniques when you first started coding vs how you learn now?</li>
