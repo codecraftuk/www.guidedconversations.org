@@ -6,7 +6,7 @@ categories: questions
 
 <h2>Mental Health in Development</h2>
 
-<p><em>Questions by  <a href="https://twitter.com/crgrieve ">Carole Rennie Logan</a> in September 2017</em></p>
+<p><em>Questions by  <a href="https://twitter.com/crgrieve">Carole Rennie Logan</a> in September 2017</em></p>
 
 <ul>
 <li>We have a job where our mind is our main tool, what should we do to look after our stress levels?</li>
