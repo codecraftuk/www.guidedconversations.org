@@ -6,9 +6,9 @@ categories: questions
 
 <h2>Ethics and AI</h2>
 
-<p><em>Questions by   <a href="https://twitter.com/FinlayDove">Finlay Macrae</a>,
-                      <a href="https://twitter.com/KeithDHar">Keith Harrison</a>
-                      <a href="https://twitter.com/lost_semicolon">Ewa</a>  in April 2018</em></p>
+<p><em> Questions by   <a href="https://twitter.com/FinlayDove">Finlay Macrae</a>,
+                      <a href="https://twitter.com/KeithDHar">Keith Harrison</a> and 
+                      <a href="https://twitter.com/lost_semicolon">Ewa</a> in April 2018</em></p>
 
 <ul>
 <li>What do you think AI is?</li>
