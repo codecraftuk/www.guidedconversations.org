@@ -6,7 +6,7 @@ categories: questions
 
 <h2>{{page.title}}</h2>
 
-<p><em>Questions by <a href="mailto:eirini@pm.me">Eirini Komninou</a> in September 2018</em></p>
+<p><em>Questions by <a href="mailto:e-mail@inferential.site">Eirini Komninou</a> in September 2018</em> (gpg: BCC7807286C460D2A2DB1EF376804AD4F89568FF)</p>
 
 * For a start, how do you perceive the terms "ethical" and "unbiased" use of AI?
 * Do you consider it our personal responsibility to deepen our Machine Learning understanding, for ensuring _algorithmic transparency_?
