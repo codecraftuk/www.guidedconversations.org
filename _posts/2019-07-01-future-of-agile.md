@@ -4,18 +4,16 @@ title: "The Future of Agile"
 categories: questions
 ---
 
-<h2>{{page.title}}</h2>
+## {{page.title}}
 
-<p><em>Questions by <a href="https://twitter.com/agile_valerie">Valerie McLean</a> (revised in March 2020)</em></p>
+_Questions by <a href="https://twitter.com/agile_valerie">Valerie McLean</a> (revised in March 2020)_
 
-<ul>
-  <li>What are the common perceptions of agile?</li>
-  <li>What works about agile ways of working?</li>
-  <li>What about agile doesn’t work?</li>
-  <li>What problems or threats does agility face?</li>
-  <li>What opportunities are out there?</li>
-  <li>Where does the agile community/industry go from here?</li>
-  <li>What will be different when we get there?</li>
-  <li>What external factors do we need to consider? (What might stop us?)</li>
-  <li>How do we get there?</li>
-</ul>
+* What are the common perceptions of agile?
+* What works about agile ways of working?
+* What about agile doesn’t work?
+* What problems or threats does agility face?
+* What opportunities are out there?
+* Where does the agile community/industry go from here?
+* What will be different when we get there?
+* What external factors do we need to consider? (What might stop us?)
+* How do we get there?
